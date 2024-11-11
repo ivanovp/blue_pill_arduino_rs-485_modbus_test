@@ -4,7 +4,7 @@ Two registers can be read from this device, register #0 and #1, they contain 123
 Baud rate 9600, 8 data bits, even parity, 1 stop bit. Device address is 1.
 
 Schematic:
-![Schematic](https://github.com/ivanovp/blue_pill_arduino_rs-485_modbus_test/blob/main/hardware/blue_pill_rs-485_bb.png?raw=true)
+![Schematic](https://github.com/ivanovp/blue_pill_arduino_rs-485_modbus_test/blob/master/hardware/blue_pill_rs-485_bb.png?raw=true)
 
 Bill of Materials:
 
